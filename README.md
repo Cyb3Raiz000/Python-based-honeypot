@@ -1,7 +1,7 @@
 # Python-based-honeypot
 A honeypot to attract and detect malicious traffic, providing insights into attack methodologies.
 
-# Demo The Run Program 🛡️
+# The Run Program 🛡️
 <div align="center">
   <img src="assets/honeypot-threat-detection-captures-ezgif.com-video-to-gif-converter.gif" alt="Honeypot Demo" width="800">
   <p align="center">
