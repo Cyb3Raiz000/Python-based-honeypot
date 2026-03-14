@@ -1,6 +1,15 @@
 # Python-based-honeypot
 A honeypot to attract and detect malicious traffic, providing insights into attack methodologies.
 
+# Demo The Run Program 🛡️
+<div align="center">
+  <img src="assets/honeypot-threat-detection-captures-ezgif.com-video-to-gif-converter.gif" alt="Honeypot Demo" width="600">
+  <p align="center">
+    <b>Figure 1:</b> Honeypot Demo
+  </p>
+</div>
+
+
 # Installation & Usage
 ## Clone the repository
 ```
@@ -13,16 +22,24 @@ cd Python-based-honeypot
 ```
 
 ## Create Virtual Environment For the project
-```python -m venv honeypot_venv```
+```
+python -m venv honeypot_venv
+```
 
 ## Activate Virtual Environment
-```source honeypot_venv/bin/activate```
+```
+source honeypot_venv/bin/activate
+```
 
 ## Now Install All the required python libraries
-``` pip install -r requirements.txt```
+```
+ pip install -r requirements.txt
+```
 
 # Configure IP-Address
 Must Replace the IP-Address to your Machine IP from the python file.
 
 ## Than you can run the program
-```sudo python honeypot.py```
+```
+sudo python honeypot.py
+```
