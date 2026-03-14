@@ -45,4 +45,4 @@ sudo python honeypot.py
 ```
 
 # Full Video Capture
-[![Watch the video](https://drive.google.com/file/d/1eJQJlbiLPuRxACpmij70c7IF61I33G77/view?usp=sharing)]
+[![Watch the Demo](assets/honeypot-threat-detection-captures-ezgif.com-video-to-gif-converter.gif)](https://drive.google.com/file/d/1eJQJlbiLPuRxACpmij70c7IF61I33G77/view?usp=sharing)
