@@ -3,7 +3,7 @@ A honeypot to attract and detect malicious traffic, providing insights into atta
 
 # Demo The Run Program 🛡️
 <div align="center">
-  <img src="assets/honeypot-threat-detection-captures-ezgif.com-video-to-gif-converter.gif" alt="Honeypot Demo" width="600">
+  <img src="assets/honeypot-threat-detection-captures-ezgif.com-video-to-gif-converter.gif" alt="Honeypot Demo" width="800">
   <p align="center">
     <b>Figure 1:</b> Honeypot Demo
   </p>
