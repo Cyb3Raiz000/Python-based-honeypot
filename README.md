@@ -43,3 +43,11 @@ Must Replace the IP-Address to your Machine IP from the python file.
 ```
 sudo python honeypot.py
 ```
+
+# Full Video Capture
+<div align="center">
+  <img src="assets/honeypot-threat-detection-captures.mp4" alt="SUCCESS" width="800">
+  <p align="center">
+    <b>Figure 2:</b> Honeypot Demo
+  </p>
+</div>
