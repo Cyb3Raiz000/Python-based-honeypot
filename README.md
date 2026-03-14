@@ -3,10 +3,14 @@ A honeypot to attract and detect malicious traffic, providing insights into atta
 
 # Installation & Usage
 ## Clone the repository
-```git clone https://github.com/Cyb3Raiz000/Python-based-honeypot.git```
+```
+git clone https://github.com/Cyb3Raiz000/Python-based-honeypot.git
+```
 
 ## Got to Project Directory
-```cd Python-based-honeypot```
+```
+cd Python-based-honeypot
+```
 
 ## Create Virtual Environment For the project
 ```python -m venv honeypot_venv```
