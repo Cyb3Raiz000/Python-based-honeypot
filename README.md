@@ -44,5 +44,5 @@ Must Replace the IP-Address to your Machine IP from the python file.
 sudo python honeypot.py
 ```
 
-# Full Video Capture
+# Watch Full Video Capture
 [![Watch the Demo](assets/honeypot-threat-detection-captures-ezgif.com-video-to-gif-converter.gif)](https://drive.google.com/file/d/1eJQJlbiLPuRxACpmij70c7IF61I33G77/view?usp=sharing)
